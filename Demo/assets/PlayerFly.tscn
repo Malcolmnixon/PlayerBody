@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Demo/assets/PlayerFly.gd" type="Script" id=1]
+
+[node name="PlayerFly" type="Node" groups=["movement_providers"]]
+script = ExtResource( 1 )
